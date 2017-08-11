@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 985f150d303954bc28872a6af7b25fa2
+timeCreated: 1502094869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: agentin_right_hair
+    21300002: agentin_right_head
+    21300004: agentin_right_body
+    21300006: agenting_right_front_arm
+    21300008: agentin_right_back_arm
+    21300010: agentin_right_front_leg
+    21300012: agentin_right_back_leg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agentin_right_hair
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8425481, y: 0.8292223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_right_head
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.25629964, y: 0.13595581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_right_body
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 11
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agenting_right_front_arm
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 8
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4211235, y: 0.8305289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_right_back_arm
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.48197064, y: 0.7704326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_right_front_leg
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 10
+        height: 15
+      alignment: 9
+      pivot: {x: 0.34855652, y: 0.82812506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_right_back_leg
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 9
+        height: 15
+      alignment: 9
+      pivot: {x: 0.33173117, y: 0.7997294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

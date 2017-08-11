@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1729363503759956}
+  m_IsPrefabParent: 1
+--- !u!1 &1729363503759956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4754107845217920}
+  - component: {fileID: 114410209792959616}
+  m_Layer: 0
+  m_Name: RoomCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4754107845217920
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1729363503759956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 55.201294, y: 93.62328, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114410209792959616
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1729363503759956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c95db6406c5a640d9b3a01e72fdbe8d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BottomLeftCorner: {fileID: 1309716407958452, guid: bb2312d00e7104e6ab892d2dbb3f3cdd,
+    type: 2}
+  BottomRightCorner: {fileID: 1309716407958452, guid: 045ab3eaeba9e481dab278c6bb09de7a,
+    type: 2}
+  TopRightCorner: {fileID: 1309716407958452, guid: 9fbe71d726a1e4d6c89ad2a0d0c3c6db,
+    type: 2}
+  TopLeftCorner: {fileID: 1309716407958452, guid: 9e30879d2ea774c5da8c2a5d45d9f35b,
+    type: 2}
+  BottomLeftCornerInner: {fileID: 1309716407958452, guid: dd311444b58414029ad4f33efd5677c3,
+    type: 2}
+  BottomRightCornerInner: {fileID: 1309716407958452, guid: f59e29b4436fa441693dc744393303ac,
+    type: 2}
+  TopRightCornerInner: {fileID: 1309716407958452, guid: 609cd1860524b4bb7a21d2812c5dc066,
+    type: 2}
+  TopLeftCornerInner: {fileID: 1309716407958452, guid: 453d2e91ceef24b6c8effcadd71b46ae,
+    type: 2}
+  Floor: {fileID: 1083495313961050, guid: 8431ca306d11a4ef387d09e2fb057ede, type: 2}
+  TopWall: {fileID: 1309716407958452, guid: 326ec9ad7a0fa4e81af36db1ef3eacfe, type: 2}
+  BottomWall: {fileID: 1309716407958452, guid: c596cc967b42c42c5bebbbd5bc887317, type: 2}
+  RightWall: {fileID: 1309716407958452, guid: cee800e1398164afca0cd55a669f96c0, type: 2}
+  LeftWall: {fileID: 1309716407958452, guid: 66cc9f276e30a4ae48563cc6baa5470e, type: 2}
+  Tiles: {fileID: 1572954442828060, guid: 21e5215d283134f90876292371d8a68f, type: 2}
+  RoomPrefab: {fileID: 1826040731032020, guid: 4c649b30d1da74e758f15d9ba44e7b1f, type: 2}
+  ExitTrigger: {fileID: 1743188096242370, guid: e52a13d417ba7994fa5066fdb9f1960d,
+    type: 2}
+  ShouldGenerate: 0

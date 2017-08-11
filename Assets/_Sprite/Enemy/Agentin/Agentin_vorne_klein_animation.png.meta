@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e016f67c780434e5ea3355c6a4c4a830
+timeCreated: 1502092914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: agentin_for_head
+    21300002: agentin_for_hair
+    21300004: agenting_for_L_arm
+    21300006: agentin_for_body
+    21300008: agenting_for_weapon
+    21300010: agentin_for_R_arm
+    21300012: agentin_for_L_leg
+    21300014: agentin_for_R_leg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agentin_for_head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.59254813, y: 0.0927887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_for_hair
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 12
+        height: 22
+      alignment: 9
+      pivot: {x: 0.0629673, y: 0.85757256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agenting_for_L_arm
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 15
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.87459946, y: 0.87597704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_for_body
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agenting_for_weapon
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 12
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_for_R_arm
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 12
+        width: 9
+        height: 20
+      alignment: 9
+      pivot: {x: 0.24292332, y: 0.8856171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_for_L_leg
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5128543, y: 0.89418685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agentin_for_R_leg
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.50000125, y: 0.87019265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

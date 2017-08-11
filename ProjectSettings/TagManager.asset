@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tile
+  - AgentViewAngleChild
+  - ViewField
+  - Camera
+  - Agent
+  - MicrophoneDetectionField
+  - Microphone
+  - ThemeManager
+  - ItemEMP
+  - ItemSoundBubble
+  - ItemPotion
+  - ItemCloak
+  - GameManager
+  - UICanvas
+  - EventController
+  - Canvas
+  - dash
+  - emp
+  - bubble
+  - cloak
+  - Room
+  - Splash Image
+  - Splash Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Secondary UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1622423371
+    locked: 0
+  - name: Walls
+    uniqueID: 2901295219
+    locked: 0
+  - name: Items
+    uniqueID: 2845476599
+    locked: 0
+  - name: Enemies
+    uniqueID: 544829459
+    locked: 0
+  - name: Character
+    uniqueID: 2748386219
+    locked: 0

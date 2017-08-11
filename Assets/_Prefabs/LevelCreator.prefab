@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1079072222704124}
+  m_IsPrefabParent: 1
+--- !u!1 &1079072222704124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4076939826080010}
+  - component: {fileID: 114384425020837856}
+  m_Layer: 0
+  m_Name: LevelCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4076939826080010
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1079072222704124}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.723013, y: 5.7910566, z: -0.296875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114384425020837856
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1079072222704124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8807b3a4d8a9e3e4c94f6720d6a01a24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomPrefabs:
+  - {fileID: 1462354026386400, guid: 4407276ebf9cfa3419b5090cd893cd4a, type: 2}
+  - {fileID: 1751704425965752, guid: 17128087adb6b7c48b633a550e11941f, type: 2}
+  - {fileID: 1472674921477408, guid: a140c64ffdc06284096cbf2140715919, type: 2}
+  - {fileID: 1205866900661840, guid: b459a1bf5ec84e44d9fc84424a38c552, type: 2}
+  - {fileID: 1205866900661840, guid: f384f80e1d28a4f039a77fa010e50353, type: 2}
+  - {fileID: 1826111807089168, guid: 2a83b13375f8bec4b8e465fcb4cdad2d, type: 2}
+  - {fileID: 1757843836335580, guid: 6c2e2c97f5d0fee47a1e07fd7c5122ec, type: 2}
+  - {fileID: 1449809498614430, guid: 4b7eb2fb1748bca49b76c00e5d21fae9, type: 2}
+  - {fileID: 1111088552195090, guid: 4d045f0cfbbdd5c4cb787e71e05a487f, type: 2}
+  - {fileID: 1771896371017890, guid: aa13c48888c50244881641392a371e30, type: 2}
+  - {fileID: 1069732310211030, guid: d3240d938683dca409d088eae2c8dd60, type: 2}
+  - {fileID: 1258897294191880, guid: d2135e709a67abb4f8baaed63992acc1, type: 2}
+  - {fileID: 1041879475714746, guid: 9ac91a978226ce2449502c4a68be1505, type: 2}
+  - {fileID: 1325788650766740, guid: f019b52ea360c994594494ddaa3907b0, type: 2}
+  - {fileID: 1047831234517768, guid: ae26b1f55c583c74eb1eb9baf9a4ccb9, type: 2}
+  - {fileID: 1606696153607648, guid: bb1c23fe2f7fcf345b9b1fbd5842b329, type: 2}
+  - {fileID: 1237047517589134, guid: 0862579e94c61d244ba6d691e3963db3, type: 2}
+  - {fileID: 1365021358924512, guid: 45ca9861122a6c443aa5409454fc7d54, type: 2}
+  - {fileID: 1931028351618200, guid: ffbff91d19461d04eb39b73dd4343bff, type: 2}
+  - {fileID: 1466000768164750, guid: d4fb388c6c7a8824ca66ebadcbe4d76c, type: 2}
+  - {fileID: 1878962242384384, guid: 440b6b1d62285404fb525b9713976bfd, type: 2}
+  - {fileID: 1120813595683992, guid: 1fb5b45350f28c54c865d9fb77092de3, type: 2}
+  - {fileID: 1381256668591888, guid: b8ea499d5c921d04983efb0d19adc07e, type: 2}
+  - {fileID: 1129845118380296, guid: 35ac2cf84b6c36645a77c323a1b08809, type: 2}
+  - {fileID: 1408585264284420, guid: 74cbfc0146ff73e44b7a63ba3137b4c1, type: 2}
+  - {fileID: 1928878493797356, guid: 736c424214e0c55418036d4d8af88e32, type: 2}
+  - {fileID: 1942123554944940, guid: bc9caaba2a8e7f147a90fb30de2e919a, type: 2}
+  - {fileID: 1822166505280066, guid: 80a847bec67001e4abe16c076843f609, type: 2}
+  - {fileID: 1229083940944138, guid: aae0e634f57f3bc49b49677bd5166536, type: 2}
+  - {fileID: 1668836519245438, guid: d9d013a2cce52f54184ed0588d0a0d25, type: 2}
+  - {fileID: 1976828096227492, guid: cc2d33f4ba138804a8094864c7b47bac, type: 2}
+  - {fileID: 1701158355651076, guid: 81c34df16debb2b42a409c09dc29ecd1, type: 2}
+  levelSize: 20
+  roomWidht: 32
+  roomHeight: 18
+  Themes:
+  - ice
+  - volcano
+  - forest
+  - volcano
+  - forest
+  BorderThemes:
+  - beach
+  - ice
